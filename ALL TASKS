@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <center>
+        <h1>TELUGU SONGS</h1>
+        <h2>NAA SONGS DOWNLOAD<h2></center>
+            <a href="TASK1.html"><img src="hii nanna.jpg" width="300px" height="300px"></a>
+            <a href="TASK2.html"><img src="Vimanam movie.jpg" width="300px" height="300px"></a>
+            <a href="TASK3.html"><img src="MS Dhoni.jpg" width="300px" height="300px"></a>
+            <a href="TASK4.html"><img src="Dhruva movie.jpg" width="300px" height="300px"></a>
+            <a href="TASK5.html"><img src="Major Movie.jpg" width="300px" height="300px"></a>
+            <a href="TASK6.html"><img src="Sita-Ramam Movie.jpg" width="300px" height="300x"></a>
+    </body>
+ </html>
